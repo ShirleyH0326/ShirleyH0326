@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShirleyH0326
+- 👋 Hi, I’m Xueting Huang
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Human-Computer Interaction
 - 💞️ I’m looking to collaborate on NLP research and application
